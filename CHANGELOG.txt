@@ -1,0 +1,6 @@
+
+= rufus-libmemcached CHANGELOG.txt
+
+
+== rufus-libmemcached - 0.1.0    not yet released
+
