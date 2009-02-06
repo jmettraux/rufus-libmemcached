@@ -20,7 +20,11 @@ NOTE : for a far more mature lib see http://github.com/fauna/memcached (the 'mem
 
   c['key'] = 'value'
 
-  c['key'] # => 'value'
+  c['key']
+    # => 'value'
+
+  c.close
+    # don't forget that
 
 
 == memcached and libmemcached install
